@@ -3,10 +3,10 @@
 1. Definir las rutas
 2. Definir los verbos de cada ruta
 
-/users
+/todos
 - GET (obtener todos los ToDos)
 - POST (crear un nuevo To Do)
-/users/:id
+/todos/:id
 - GET (obtener un ToDo en especifico)
 - PUT (editar un ToDo)
 - DELETE (eliminar ToDo)
